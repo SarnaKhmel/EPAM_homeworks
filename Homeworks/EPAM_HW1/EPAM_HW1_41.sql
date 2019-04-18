@@ -1,0 +1,1 @@
+SELECT  'середня ціна ='+ CAST (AVG(price) AS nvarchar ) FROM laptop

@@ -1,0 +1,4 @@
+SELECT*FROM trip
+	WHERE DATENAME (hour,time_in)
+		BETWEEN 21 AND 23  OR DATENAME (hour,time_in) 
+			BETWEEN 0 AND 10

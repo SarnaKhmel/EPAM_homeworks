@@ -1,0 +1,1 @@
+SELECT CONCAT('from ',town_from ,'to ',town_to) AS Towntrip FROM trip

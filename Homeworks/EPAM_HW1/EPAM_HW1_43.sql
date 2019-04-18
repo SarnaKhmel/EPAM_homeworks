@@ -1,0 +1,1 @@
+SELECT CONVERT(VARCHAR(10), date, 102)FROM income
